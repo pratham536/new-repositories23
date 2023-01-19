@@ -1,0 +1,17 @@
+hi my name is pratham 
+
+
+
+jenkins
+
+
+
+it is used to to ingetrate the all modules 
+first we code via developer and 
+that code goes to jenkins automatically
+
+
+and then goes to maven which is used to make builds 
+that build get ready and then again that build go to jenkins 
+and than the code goes to selenium and again that codes goes to jenkins and 
+then we deliver to the client.
